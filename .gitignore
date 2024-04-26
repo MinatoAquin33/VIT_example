@@ -1,0 +1,11 @@
+dataset
+output
+.ipynb_checkpoints
+data
+results
+vit_covid
+vit-base-beans
+vit-base-covid-novaild
+vit-Hybird-covid
+vit-large-covid
+vit-simple-covid
